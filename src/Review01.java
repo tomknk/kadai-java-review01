@@ -1,7 +1,7 @@
 
 public class Review01 {
 
-    public static void main(String[] args) {
+    public static void mainMethod(String[] args) {
         //変数の宣言・初期化
         int kakaku = 1500;//商品価格は 1500
         int tax = 10;//税率　10％
